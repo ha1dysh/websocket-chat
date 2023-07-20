@@ -9,7 +9,7 @@
 	flex-direction: column;
 	justify-content: flex-end;
 
-	min-height: calc(100vh - 40px);
+	min-height: calc(100dvh - 40px);
 	width: 90%;
 
 	margin: 2rem;
